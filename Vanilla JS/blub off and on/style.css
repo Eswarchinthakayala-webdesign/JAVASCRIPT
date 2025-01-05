@@ -1,0 +1,19 @@
+body
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+img
+{
+    width: 200px;
+}
+button
+{
+    cursor: pointer;
+    padding: 10px;
+    outline: none;
+    border: none;
+}
